@@ -5,9 +5,9 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt" %>
 <html>
 <head>
-<title>Web app</title>
+<title>웹 엡</title>
 </head>
 <body>
-
+	기본대문
 </body>
 </html>
